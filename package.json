@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/feelepxyz/testing-git-dependencies#readme",
   "dependencies": {
-    "lodash": "github:lodash/lodash"
+    "lodash": "github:lodash/lodash#master"
   }
 }
