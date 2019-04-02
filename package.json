@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/feelepxyz/testing-git-dependencies#readme",
   "dependencies": {
-    "opencollective": "github:opencollective/opencollective-cli"
+    "web-auto-extractor": "github:indix/web-auto-extractor"
   }
 }
