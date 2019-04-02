@@ -1,0 +1,22 @@
+{
+  "name": "testing-git-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feelepxyz/testing-git-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feelepxyz/testing-git-dependencies/issues"
+  },
+  "homepage": "https://github.com/feelepxyz/testing-git-dependencies#readme",
+  "dependencies": {
+    "opencollective": "github:opencollective/opencollective-cli#master"
+  }
+}
