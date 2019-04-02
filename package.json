@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/feelepxyz/testing-git-dependencies#readme",
   "dependencies": {
-    "request": "github:request/request#master"
+    "opencollective": "github:opencollective/opencollective-cli#master"
   }
 }
