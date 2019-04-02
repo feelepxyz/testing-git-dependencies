@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/feelepxyz/testing-git-dependencies#readme",
   "dependencies": {
-    "rivescript": "github:aichaos/rivescript-js"
+    "opencollective": "github:opencollective/opencollective-cli"
   }
 }
